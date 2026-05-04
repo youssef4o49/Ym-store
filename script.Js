@@ -4,34 +4,6 @@ const shoes = [
         id: "1",
         image: "images/WhatsApp Image 2026-05-04 at 3.57.53 PM.jpeg" // تأكد من وجود صورة بهذا الاسم في الفولدر
     },
-    {
-        id: "2",
-        image: "images/WhatsApp Image 2026-05-04 at 3.45.35 PM.jpeg"
-    },
-    {
-         id: "3",        
-        image: "images/WhatsApp Image 2026-05-04 at 3.45.16 PM.jpeg"
-    },
-     {
-         id: "5",        
-        image: "images/OIP.webp"
-     },
-       {
-        id: "6",
-        image: "images/WhatsApp Image 2026-05-04 at 3.57.53 PM.jpeg" // تأكد من وجود صورة بهذا الاسم في الفولدر
-    },
-    {
-        id: "7",
-        image: "images/WhatsApp Image 2026-05-04 at 3.45.35 PM.jpeg"
-    },
-    {
-         id: "8",        
-        image: "images/WhatsApp Image 2026-05-04 at 3.45.16 PM.jpeg"
-    },
-     {
-         id: "9",        
-        image: "images/OIP.webp"
-     },
      
     ]
 
