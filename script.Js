@@ -6,10 +6,11 @@ const shoes =
          id: "1",        
         image: "images/WhatsApp Image 2026-05-04 at 3.45.16 PM.jpeg"
     },
-{
-         id:"2",
-         image: "images/WhatsApp Image 2026-05-04 at 5.29.29 PM.jpeg"
-},
+    {
+         id: "1",        
+        image: "images/WhatsApp Image 2026-05-04 at 3.45.16 PM.jpeg"
+    },
+
     
     
 ]
