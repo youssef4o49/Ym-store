@@ -8,7 +8,7 @@ const shoes =
     },
 {
          id:"2",
-         image:"WhatsApp Image 2026-05-04 at 5.29.29 PM.jpeg"
+         image:"images/WhatsApp Image 2026-05-04 at 5.29.29 PM.jpeg"
 },
     
     
