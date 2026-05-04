@@ -1,7 +1,7 @@
 // 1. بيانات المنتجات (يمكنك إضافة المزيد هنا بسهولة)
-const shoes = [
-    {
-
+const shoes =
+[
+      {
         id: "1",
         image: "images/WhatsApp Image 2026-05-04 at 3.57.53 PM.jpeg" // تأكد من وجود صورة بهذا الاسم في الفولدر
     },
@@ -34,8 +34,8 @@ const shoes = [
         image: "images/OIP.webp"
      },
      
-     
-    ]
+    
+]
 
 // 2. وظيفة عرض المنتجات
 function renderProducts() {
